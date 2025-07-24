@@ -1,0 +1,6 @@
+@Ymyp67CVProject.API_HostAddress = http://localhost:5183
+
+GET {{Ymyp67CVProject.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
